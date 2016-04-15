@@ -34,33 +34,33 @@
 17 verbose addNameTag registry:https://registry.npmjs.org/browser-sync not in flight; fetching
 18 verbose request uri https://registry.npmjs.org/browser-sync
 19 verbose request no auth needed
-20 info attempt registry request try #1 at 10:25:08 PM
-21 verbose request id 48937b7b0d877507
+20 info attempt registry request try #1 at 10:47:59 PM
+21 verbose request id ac47f04f7f4dd4c9
 22 verbose etag "59SRZX2NY2C75IGS32MJDWE5V"
 23 http request GET https://registry.npmjs.org/browser-sync
 24 http 304 https://registry.npmjs.org/browser-sync
-25 verbose headers { date: 'Fri, 15 Apr 2016 03:25:08 GMT',
+25 verbose headers { date: 'Fri, 15 Apr 2016 03:47:59 GMT',
 25 verbose headers   via: '1.1 varnish',
 25 verbose headers   'cache-control': 'max-age=300',
 25 verbose headers   etag: '"59SRZX2NY2C75IGS32MJDWE5V"',
-25 verbose headers   age: '107',
+25 verbose headers   age: '10',
 25 verbose headers   connection: 'keep-alive',
-25 verbose headers   'x-served-by': 'cache-dfw1840-DFW',
+25 verbose headers   'x-served-by': 'cache-dfw1821-DFW',
 25 verbose headers   'x-cache': 'HIT',
 25 verbose headers   'x-cache-hits': '1',
-25 verbose headers   'x-timer': 'S1460690708.237444,VS0,VE0',
+25 verbose headers   'x-timer': 'S1460692079.597118,VS0,VE0',
 25 verbose headers   vary: 'Accept-Encoding' }
 26 silly get cb [ 304,
-26 silly get   { date: 'Fri, 15 Apr 2016 03:25:08 GMT',
+26 silly get   { date: 'Fri, 15 Apr 2016 03:47:59 GMT',
 26 silly get     via: '1.1 varnish',
 26 silly get     'cache-control': 'max-age=300',
 26 silly get     etag: '"59SRZX2NY2C75IGS32MJDWE5V"',
-26 silly get     age: '107',
+26 silly get     age: '10',
 26 silly get     connection: 'keep-alive',
-26 silly get     'x-served-by': 'cache-dfw1840-DFW',
+26 silly get     'x-served-by': 'cache-dfw1821-DFW',
 26 silly get     'x-cache': 'HIT',
 26 silly get     'x-cache-hits': '1',
-26 silly get     'x-timer': 'S1460690708.237444,VS0,VE0',
+26 silly get     'x-timer': 'S1460692079.597118,VS0,VE0',
 26 silly get     vary: 'Accept-Encoding' } ]
 27 verbose etag https://registry.npmjs.org/browser-sync from cache
 28 verbose get saving browser-sync to /Users/lauriehawton1/.npm/registry.npmjs.org/browser-sync/.cache.json
