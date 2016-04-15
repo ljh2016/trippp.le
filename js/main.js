@@ -14,6 +14,7 @@ document.querySelector('.close-icon');
 closeButton.addEventlistener('click', 
      function () {
       console.log('close it!');
+      document
       .querySelector('body')
       .classList
       .toggle('nav-open');
