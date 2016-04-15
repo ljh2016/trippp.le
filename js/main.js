@@ -1,4 +1,4 @@
-var navButton = document.querySelector ('.nav-icon');
+var navButton = document.querySelector('.nav-icon');
 
 navButton.addEventListener('click', function() {
   console.log('clicky!!!');
@@ -8,8 +8,7 @@ navButton.addEventListener('click', function() {
     .toggle('nav-open');
 });
 
-var closeButton = 
-document.querySelector('.close-icon');
+var closeButton = document.querySelector('close-icon');
 
 closeButton.addEventlistener('click', 
      function () {
